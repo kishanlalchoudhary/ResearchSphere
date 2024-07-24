@@ -2,13 +2,32 @@
 ResearchSphere is a web-based platform designed to connect students seeking research/project opportunities with professors offering them.
 
 ## Features
-
 - **User Authentication:** Secure user registration and login with JWT authentication and password recovery via email-based OTP verification.
 - **Profile Management:** Create, update, and manage user profiles with an intuitive interface.
 - **Opportunity Management:** Create, list, update, and delete research opportunities.
 - **Application Handling:** Accept, reject, and withdraw applications for opportunities.
 - **Opportunity Listings:** Search, filter, and paginate opportunities for efficient browsing.
 - **Interactive User Interface:** Responsive design with dynamic UI elements for an enhanced user experience.
+
+## Snapshots
+
+### Onboarding
+![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/5dc6b07d-39ec-4311-a18b-51cd7d3b801c)
+
+### Profile Management
+![ezgif com-animated-gif-maker (2)](https://github.com/user-attachments/assets/4e2757d4-5845-4374-aab3-c8f97617c4c4)
+
+### Opportunity Management
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/4cceff25-3230-4303-99a2-6859b7fa0ff2)
+
+### Apply for Opportunity
+![ezgif com-animated-gif-maker (3)](https://github.com/user-attachments/assets/189fd8b9-7b6c-4e44-972f-81c94ad94792)
+
+### Review Application
+![ezgif com-animated-gif-maker (4)](https://github.com/user-attachments/assets/d429f28d-19d9-40ae-8909-811d4f1aa88c)
+
+### Application Status and Feedback
+![ezgif com-animated-gif-maker (5)](https://github.com/user-attachments/assets/22c6dea4-bcf6-4c9c-9bd8-d5ec22a79b62)
 
 ## Repositories
 
