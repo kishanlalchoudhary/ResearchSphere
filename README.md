@@ -11,22 +11,22 @@ ResearchSphere is a web-based platform designed to connect students seeking rese
 
 ## Snapshots
 
-- ### Onboarding
+### Onboarding
 ![ezgif com-animated-gif-maker (7)](https://github.com/user-attachments/assets/9da4f0ee-5e1a-4da2-846c-1e7b861e57c7)
 
-- ### Profile Management
+### Profile Management
 ![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/c79cf613-6b77-4a90-b225-0a6cc3949234)
 
-- ### Opportunity Management
+### Opportunity Management
 ![ezgif com-animated-gif-maker (2)](https://github.com/user-attachments/assets/305cadd3-1650-47b2-8d3a-a3db4bc9f31e)
 
-- ### Apply for Opportunity
+### Apply for Opportunity
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/97223f5c-291d-4ff3-8417-a8a2e4b56e75)
 
-- ### Review Application
+### Review Application
 ![ezgif com-animated-gif-maker (3)](https://github.com/user-attachments/assets/a4ce7d28-1091-4583-8c4f-de9b2af43688)
 
-- ### Feedback
+### Feedback
 ![ezgif com-animated-gif-maker (8)](https://github.com/user-attachments/assets/be196a0c-f7aa-49ef-81f4-f409699ee9ff)
 
 ## Repositories
