@@ -14,8 +14,8 @@ ResearchSphere is a web-based platform designed to connect students seeking rese
 
 ### Frontend Repository
 - **Repository Name:** [ResearchSphere-Frontend](https://github.com/kishanlalchoudhary/ResearchSphere-Frontend)
-- **Description:** The frontend of the Research Sphere platform provides a responsive and interactive user interface for managing profiles, listing opportunities, and handling applications. It is built using React, Daisy UI, and Tailwind CSS.
+- **Description:** The Research Sphere Frontend is the user interface for the platform, offering an intuitive and user-friendly experience. It facilitates easy interaction with research opportunities and provides a responsive, visually appealing design across all devices.
  
 ### Backend Repository
 - **Repository Name:** [ResearchSphere-Backend](https://github.com/kishanlalchoudhary/ResearchSphere-Backend)
-- **Description:** The backend of the Research Sphere platform includes features like user authentication, profile management, opportunity management, and application handling. It is built using Node.js, Express.js, MongoDB, and follows the MVC pattern.
+- **Description:** The Research Sphere Backend delivers secure and reliable server-side functionality using MVC architecture. It efficiently manages data and user interactions, ensuring optimal performance and scalability for a smooth and secure user experience.
