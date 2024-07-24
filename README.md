@@ -12,22 +12,22 @@ ResearchSphere is a web-based platform designed to connect students seeking rese
 ## Snapshots
 
 - ### Onboarding
-![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/5dc6b07d-39ec-4311-a18b-51cd7d3b801c)
+![ezgif com-animated-gif-maker (7)](https://github.com/user-attachments/assets/9da4f0ee-5e1a-4da2-846c-1e7b861e57c7)
 
 - ### Profile Management
-![ezgif com-animated-gif-maker (2)](https://github.com/user-attachments/assets/4e2757d4-5845-4374-aab3-c8f97617c4c4)
+![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/c79cf613-6b77-4a90-b225-0a6cc3949234)
 
 - ### Opportunity Management
-![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/4cceff25-3230-4303-99a2-6859b7fa0ff2)
+![ezgif com-animated-gif-maker (2)](https://github.com/user-attachments/assets/305cadd3-1650-47b2-8d3a-a3db4bc9f31e)
 
 - ### Apply for Opportunity
-![ezgif com-animated-gif-maker (3)](https://github.com/user-attachments/assets/189fd8b9-7b6c-4e44-972f-81c94ad94792)
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/97223f5c-291d-4ff3-8417-a8a2e4b56e75)
 
 - ### Review Application
-![ezgif com-animated-gif-maker (4)](https://github.com/user-attachments/assets/d429f28d-19d9-40ae-8909-811d4f1aa88c)
+![ezgif com-animated-gif-maker (3)](https://github.com/user-attachments/assets/a4ce7d28-1091-4583-8c4f-de9b2af43688)
 
 - ### Feedback
-![ezgif com-animated-gif-maker (5)](https://github.com/user-attachments/assets/22c6dea4-bcf6-4c9c-9bd8-d5ec22a79b62)
+![ezgif com-animated-gif-maker (8)](https://github.com/user-attachments/assets/be196a0c-f7aa-49ef-81f4-f409699ee9ff)
 
 ## Repositories
 
