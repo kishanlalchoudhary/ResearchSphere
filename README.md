@@ -26,7 +26,7 @@ ResearchSphere is a web-based platform designed to connect students seeking rese
 - ### Review Application
 ![ezgif com-animated-gif-maker (4)](https://github.com/user-attachments/assets/d429f28d-19d9-40ae-8909-811d4f1aa88c)
 
-- ### Application Status and Feedback
+- ### Feedback
 ![ezgif com-animated-gif-maker (5)](https://github.com/user-attachments/assets/22c6dea4-bcf6-4c9c-9bd8-d5ec22a79b62)
 
 ## Repositories
